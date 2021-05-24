@@ -2,9 +2,6 @@
 
 <img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Gaurav</strong>
-</h1>
-
 <h3 align="left"><strong>
 I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
 
