@@ -1,7 +1,7 @@
 
 
 
-# Hello, folks! ![20210509_083547-ANIMATION_Original](https://user-images.githubusercontent.com/30313179/119475834-1f58dd80-bd6b-11eb-9e8d-1e9bf595c44b.GIF)
+# Hello, folks!
 
 
 My name is Gaurav and I'm a software developer/Mobile Application engineer. I'm from 🇮🇳, living in Bengaluru and currently working at Shell. 
